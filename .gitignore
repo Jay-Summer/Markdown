@@ -1,0 +1,15 @@
+# 忽略 VSCode 配置文件夹
+.vscode/
+
+# 忽略虚拟环境目录（任何位置）
+python/myenv/
+
+# 忽略 Python 编译缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 忽略 Jupyter Notebook 检查点
+.ipynb_checkpoints/
